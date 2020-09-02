@@ -1,5 +1,5 @@
 <Response>
-    <Dial>
-        <Number  sendDigits="wwww2410">+918884745990</Number>
+    <Dial dialMusic="real">
+        <Number>+918884745990</Number>
     </Dial>
 </Response>
